@@ -6,6 +6,7 @@
 3. Deploy to Google Cloud
 
 ## Tutorial
+https://medium.com/@alfianlosari/serverless-daily-reporting-notification-service-with-google-cloud-scheduler-cloud-functions-d3cc42390006?source=friends_link&sk=0f5c57f3cd9cfd15aba6763de45e2d18
 
 
 ## GCP Services Used
